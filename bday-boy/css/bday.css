@@ -1,0 +1,94 @@
+.lose-mind 
+{
+  width: 250;
+  height: 250px;
+  margin: 10px;
+}
+.lose-mind img
+{
+  border-radius: 10px;
+  margin-bottom: 10px;
+  border: 2px solid black;
+}
+.girl-code
+{
+  width: 250;
+  height: 250px;
+}
+.girl-code img
+{
+  border-radius: 10px;
+ border: 2px solid black;
+  margin-bottom: 10px;
+}
+.cute-code
+{
+  width: 250;
+  height: 250px;
+}
+.cute-code img
+{
+  border-radius: 10px;
+ border: 2px solid black;
+  margin-bottom: 10px;
+}
+.gf-code
+{
+  width: 250;
+  height: 250px;
+}
+.gf-code img
+{
+  border-radius: 10px;
+  border: 2px solid black;
+  margin-bottom: 10px;
+}
+.fam-code
+{
+  width: 250;
+  height: 250px;
+}
+.fam-code img
+{
+  border-radius: 10px;
+  border: 2px solid black;
+  margin-bottom: 10px;
+}
+body
+{
+	background-color: #AF3838;
+	color: white;
+}
+p
+{
+	padding: 10px;
+	font-size: 20px;
+	background-color: #F8CFCF;
+	color:black;
+	margin: 30px 120px;
+}
+h1
+{
+	font-weight: bold;
+	font-size: 50px;
+}
+.lose h2
+{
+	color: #A4FEDB;
+}
+.girl h2
+{
+	color: #A4FEDB;
+}
+.cute h2
+{
+	color: #A4FEDB;
+}
+.gf h2
+{
+	color: #A4FEDB;
+}
+.fam h2
+{
+	color: #A4FEDB;
+}
